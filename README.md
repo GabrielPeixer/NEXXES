@@ -1,6 +1,6 @@
 # NEXXES
 
-# NEXXES1
+# NEXXES - Gabriel Peixer
 Questão [01]
 Esse passo a passo explica uma das diversas formas de automatizar um deploy de uma aplicação Java em um servidor Tomcat.
 
